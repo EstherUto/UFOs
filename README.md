@@ -41,7 +41,7 @@ Below is an image showing an example filter process showing sighting in Florida 
 ## Summary
 
 Although the HTML is clean and organized, there is still more that can be done with it. One drawback that can be identified with the design is a link to more information and possible pictures for as many sightings as possible. This would give the page visitors more information and would make the page more interesting to visit. This could be done by:
-- Allocating UFO sightings to each row in the table and subsequently adding a <a href="" /> tag to provide more information and possible comments from those who was present at the time.
+- Allocating UFO sightings to each row in the table and subsequently adding an `<a href="" />` tag to provide more information and possible comments from those who was present at the time.
 - Including any images taken at the time of the sighting. These images can either be included in the table or added to a new linked page if created.
 
 
